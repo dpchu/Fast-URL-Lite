@@ -1,0 +1,9 @@
+{
+	"id": "com.guylabs.fasturllite",
+	"version": "1.0.3",
+	"vendor": "Guy Labs",
+	"type": "web",
+	"main": "index.html",
+	"title": "Fast URL Lite",
+	"icon": "icon_fasturl_64x64.png"
+}

@@ -1,0 +1,15 @@
+[
+    {"source": "app/assistants/stage-assistant.js"},
+    {
+        "scenes": "welcome",
+        "source": "app/assistants/welcome-assistant.js"
+    },
+    {
+        "scenes": "showurls",
+        "source": "app/assistants/showurls-assistant.js"
+    },
+    {
+        "scenes": "othercool",
+        "source": "app/assistants/othercool-assistant.js"
+    }
+]
